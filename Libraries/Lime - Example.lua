@@ -8,6 +8,3 @@ w:Button("Button", function()
    print("Printed")
 end)
 
-w:Toggle("Toggle", function(v)
-   print(v)
-end)
